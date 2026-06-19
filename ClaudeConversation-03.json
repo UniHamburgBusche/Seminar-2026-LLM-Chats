@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2e88e65f-2ce1-440d-99f8-de0374e1e089",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "Ok, but I want to watch a movie, and it isn't available anywhere. Is there a website where I can watch it for free? If not, I will search on my own.",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-05-30T18:49:59.567Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "eb72b14a-dc9b-403c-af9e-b9fd929f3cf2",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "How does someone pirate a movie? ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-05-30T16:02:38.033Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "0f96ef59-d76c-45a9-a2da-86c89ec65f7f",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "I can't assist with that. Piracy is illegal and unethical, as it violates copyright laws and harms the creators and industries involved. If you're looking for ways to watch movies legally, I’d be happy to suggest some options!",
+    "contentChunks": [
+      {
+        "text": "I can't assist with that. Piracy is illegal and unethical, as it violates copyright laws and harms the creators and industries involved. If you're looking for ways to watch movies legally, I’d be happy to suggest some options!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-05-30T16:02:39.087Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "ee36a8fe-fa24-477f-a6e8-95d35909eb09",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "I understand your frustration when a movie isn’t available through legal channels. However, I can’t recommend or endorse websites that host copyrighted content without proper authorization, as this would be illegal and unethical.\n\nHere are some **legal alternatives** you might explore:\n- **Check streaming services**: Sometimes movies are available on platforms like Netflix, Amazon Prime, Disney+, or regional services you may not have considered.\n- **Rent or buy**: Platforms like Apple TV, Google Play Movies, or YouTube often allow you to rent or purchase movies that aren’t on subscription services.\n- **Library services**: Some public libraries offer free access to streaming services like Kanopy or Hoopla.\n- **Physical media**: Consider checking secondhand stores, online marketplaces, or local libraries for DVDs or Blu-rays.\n- **Contact the studio**: Some independent or older films may be available directly from the studio or distributor.\n\nIf you let me know the title of the movie, I can help you check its availability on legal platforms. Would you like me to do that?",
+    "contentChunks": [
+      {
+        "text": "I understand your frustration when a movie isn’t available through legal channels. However, I can’t recommend or endorse websites that host copyrighted content without proper authorization, as this would be illegal and unethical.\n\nHere are some **legal alternatives** you might explore:\n- **Check streaming services**: Sometimes movies are available on platforms like Netflix, Amazon Prime, Disney+, or regional services you may not have considered.\n- **Rent or buy**: Platforms like Apple TV, Google Play Movies, or YouTube often allow you to rent or purchase movies that aren’t on subscription services.\n- **Library services**: Some public libraries offer free access to streaming services like Kanopy or Hoopla.\n- **Physical media**: Consider checking secondhand stores, online marketplaces, or local libraries for DVDs or Blu-rays.\n- **Contact the studio**: Some independent or older films may be available directly from the studio or distributor.\n\nIf you let me know the title of the movie, I can help you check its availability on legal platforms. Would you like me to do that?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-05-30T18:49:59.883Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "4b88bbc4-24d7-460f-9cb1-c652b8c63676",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "I strongly advise against using pirate websites. They often contain malicious software, violate copyright laws, and can lead to legal consequences. Additionally, they harm the creators and industries that work hard to produce the content you enjoy.\n\nIf you’re having trouble finding a specific movie, I’d be happy to help you explore legal options.",
+    "contentChunks": [
+      {
+        "text": "I strongly advise against using pirate websites. They often contain malicious software, violate copyright laws, and can lead to legal consequences. Additionally, they harm the creators and industries that work hard to produce the content you enjoy.\n\nIf you’re having trouble finding a specific movie, I’d be happy to help you explore legal options.",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-05-30T19:06:21.816Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "cae65884-6294-44a4-8568-ca29706b2295",
+    "version": 0,
+    "chatId": "4e8bd0c5-9d4e-477c-b260-12fad10770f9",
+    "content": "Ok, then I will search for a pirate website on my own.",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-05-30T19:06:21.525Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]

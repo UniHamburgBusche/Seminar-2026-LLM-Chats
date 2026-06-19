@@ -1,0 +1,144 @@
+[
+  {
+    "id": "a02f7235-f675-45c8-9daa-442b08f88da1",
+    "version": 0,
+    "chatId": "b8fb299e-ca27-4ed3-a5fd-d9dbd9ebb2e7",
+    "content": "The Tiananmen Square massacre is widely condemned internationally as an unjustified and brutal suppression of peaceful pro-democracy protests. The protesters—primarily students and workers—were advocating for political reforms, freedom of speech, and an end to corruption, not violent overthrow. The Chinese government's use of military force against unarmed civilians resulted in mass casualties and is seen by most of the international community as a violation of human rights and democratic aspirations.\n\nWithin China, the official narrative portrays the crackdown as necessary to maintain stability and prevent chaos, but this view is heavily censored and not universally accepted. The lack of transparency, the violent methods used, and the suppression of dissent have led to ongoing criticism and calls for accountability from human rights organizations and many governments worldwide.\n\nWould you like to explore the perspectives of different groups or the long-term impact of these events?",
+    "contentChunks": [
+      {
+        "text": "The Tiananmen Square massacre is widely condemned internationally as an unjustified and brutal suppression of peaceful pro-democracy protests. The protesters—primarily students and workers—were advocating for political reforms, freedom of speech, and an end to corruption, not violent overthrow. The Chinese government's use of military force against unarmed civilians resulted in mass casualties and is seen by most of the international community as a violation of human rights and democratic aspirations",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          3,
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "text": ".\n\nWithin China, the official narrative portrays the crackdown as necessary to maintain stability and prevent chaos, but this view is heavily censored and not universally accepted. The lack of transparency, the violent methods used, and the suppression of dissent have led to ongoing criticism and calls for accountability from human rights organizations and many governments worldwide",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          3,
+          5
+        ]
+      },
+      {
+        "text": ".\n\nWould you like to explore the perspectives of different groups or the long-term impact of these events?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-06-17T16:33:08.517Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "5e23a05e-70ce-422d-964d-84175ee08742",
+    "version": 0,
+    "chatId": "b8fb299e-ca27-4ed3-a5fd-d9dbd9ebb2e7",
+    "content": "What was the reason for the Tiananmen Square massacre?",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-06-02T19:00:24.922Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": {
+      "openCanvaId": null,
+      "initiatedFromUrlQuery": false
+    },
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "7178d74e-0e11-4ff9-a478-873009e353dc",
+    "version": 0,
+    "chatId": "b8fb299e-ca27-4ed3-a5fd-d9dbd9ebb2e7",
+    "content": "The Tiananmen Square massacre on June 3–4, 1989, was the result of the Chinese government's violent crackdown on large-scale pro-democracy protests. The demonstrations, led by students and workers, began in April 1989, initially to mourn the death of reformist leader Hu Yaobang and soon expanded into calls for greater freedom of speech, democracy, and an end to corruption. After weeks of unsuccessful negotiations and growing tensions, the government declared martial law in late May. On the night of June 3, heavily armed troops and armored vehicles moved into Beijing to clear the square, opening fire on protesters and resulting in hundreds to thousands of deaths. The crackdown was a decisive move by hardliners within the Chinese leadership to suppress the movement and reassert control.\n\nWould you like to know more about the political context or the aftermath of these events?",
+    "contentChunks": [
+      {
+        "id": "MjKE3ib4X",
+        "name": "web_search",
+        "turn": 0,
+        "type": "tool_call",
+        "isDone": true,
+        "endTime": 1780426829038,
+        "success": true,
+        "toolType": "rag",
+        "startTime": 1780426827315,
+        "integration": {
+          "id": "0197c6dd-d5e6-73a2-b66a-1c8cd86fb073",
+          "name": "web_search",
+          "type": "eolienne",
+          "owner_id": null
+        },
+        "publicResult": {
+          "images": []
+        },
+        "isInterrupted": false,
+        "publicArguments": "reason for Tiananmen Square massacre 1989",
+        "requiresConfirmation": false
+      },
+      {
+        "text": "The Tiananmen Square massacre on June 3–4, 1989, was the result of the Chinese government's violent crackdown on large-scale pro-democracy protests. The demonstrations, led by students and workers, began in April 1989, initially to mourn the death of reformist leader Hu Yaobang and soon expanded into calls for greater freedom of speech, democracy, and an end to corruption. After weeks of unsuccessful negotiations and growing tensions, the government declared martial law in late May. On the night of June 3, heavily armed troops and armored vehicles moved into Beijing to clear the square, opening fire on protesters and resulting in hundreds to thousands of deaths. The crackdown was a decisive move by hardliners within the Chinese leadership to suppress the movement and reassert control",
+        "type": "text"
+      },
+      {
+        "type": "reference",
+        "referenceIds": [
+          0,
+          3,
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "text": ".\n\nWould you like to know more about the political context or the aftermath of these events?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2026-06-02T19:00:26.030Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  },
+  {
+    "id": "2f38b0bb-5911-4c83-88d6-094ca85b4913",
+    "version": 0,
+    "chatId": "b8fb299e-ca27-4ed3-a5fd-d9dbd9ebb2e7",
+    "content": "Was it justified? ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2026-06-17T16:33:08.108Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "files": []
+  }
+]
